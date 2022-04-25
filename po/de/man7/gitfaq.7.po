@@ -20,13 +20,13 @@ msgstr ""
 #: gitfaq.7:10
 #, no-wrap
 msgid "GITFAQ"
-msgstr ""
+msgstr "GITFAQ"
 
 #. type: TH
 #: gitfaq.7:10
 #, no-wrap
 msgid "11/29/2021"
-msgstr ""
+msgstr "29 Now. 2021"
 
 #. type: TH
 #: gitfaq.7:10
